@@ -1,0 +1,68 @@
+div#body {
+	font-family: 'Noto Sans', sans-serif;
+	background: #0d0d0d;
+}
+body {
+	font-family: 'Noto Sans', sans-serif;
+	background: #0d0d0d;
+}
+div#header {
+    border-style: solid;
+    border-width: 3px;
+	border-color: white;
+	background: #0d0d0d;
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 19px;
+	color:white;
+    align-content: center;
+    height: 60px;
+    text-align: center;
+    display: grid;
+}
+img {
+	border: 3px solid white;
+}
+div#menu {
+    height: 100%;
+    padding: 30px;
+    margin: auto;
+    text-align: center;
+}
+div#bottomline {
+    border-bottom-style: double;
+    border-width: 10px;
+	border-color: white;
+}
+div#content-main {
+	float:left;
+	padding-right:15px;
+}
+div#content-text {
+	margin-top:20px;
+	color:white;
+
+}
+p {
+	text-indent: 30px;
+	color: white;
+}
+div.index-nav {
+}
+nav li{
+	display:inline-block;
+	margin-left:50px;
+	margin-right:50px;
+}
+ul {
+	list-style:none;
+	text-align:center;
+}
+a#about {
+	text-decoration: none;
+	color: white;
+	font-size:14px;
+}
+div#all {
+	height:840px;
+}
+
